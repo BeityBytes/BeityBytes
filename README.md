@@ -1,6 +1,6 @@
 ![](https://komarev.com/ghpvc/?username=BeityBytes&color=ff69b4)
 
-- 👋 Hi, I’m @BeityBytes
+- 🌸 Hi, I’m @BeityBytes
  
 <!--- - 👀 I’m interested in ...
 - 🌱 I’m currently learning ...
