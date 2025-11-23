@@ -9,5 +9,4 @@
 
 <!--- :cherry_blossom::cherry_blossom::cherry_blossom: --->
 
-
-[![](assets/github.gif)](#)
+<p align="center"><img align="center" src="/assets/github.gif"></p>
