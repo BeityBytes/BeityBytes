@@ -1,4 +1,4 @@
-[![](header.png)](#)
+[![](assets/header.png)](#)
 
 [![](https://komarev.com/ghpvc/?username=BeityBytes&color=ff69b4)](#) [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#) [![](https://img.shields.io/badge/badges-awesome-green.svg)](#)
 
