@@ -9,4 +9,6 @@
 
 <!--- :cherry_blossom::cherry_blossom::cherry_blossom: --->
 
+<h3 align="center"></h3>
+
 <p align="center"><img align="center" src="/assets/github.gif"></p>
