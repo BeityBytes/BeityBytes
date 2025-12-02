@@ -16,7 +16,6 @@
         .container {
           /* GitHub Dark Theme Background Colors */
           background-color: #0d1117; /* GitHub Dark default */
-          border: 1px solid #30363d; /* GitHub border color */
           
           width: 600px;
           height: 100px;
@@ -47,7 +46,6 @@
         @media (prefers-color-scheme: light) {
           .container {
             background-color: #ffffff; /* GitHub Light default */
-            border: 1px solid #d1d9e0; /* GitHub light border */
             color: #24292f; /* GitHub dark text */
           }
           .hi {
