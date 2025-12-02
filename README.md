@@ -1,9 +1,9 @@
-<h1 align="center">Hi there 👋, I’m @BeityBytes 🌸</h1>
-<h3 align="center">🌸🌸🌸</h3>
+<h1 align="center">Hello there, I’m @BeityBytes 🌸</h1>
+
+<h3 align="center"><img src="https://komarev.com/ghpvc/?username=BeityBytes&color=ff69b4" /> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /><img src="https://img.shields.io/badge/badges-awesome-green.svg" /></h3>
+
 <h3 align="center"></h3>
-
-[![](https://komarev.com/ghpvc/?username=BeityBytes&color=ff69b4)](#) [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#) [![](https://img.shields.io/badge/badges-awesome-green.svg)](#)
-
+<p align="center">🌸🌸🌸</p>
 <h3 align="center"></h3>
 
 <p align="center"><img align="center" src="/assets/github.gif"></p>
