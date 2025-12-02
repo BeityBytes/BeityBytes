@@ -1,4 +1,12 @@
-## Hi there 👋
+<h1>Hi there 👋, I’m @BeityBytes 🌸</h1>
+<h3>🌸🌸🌸</h3>
+
+[![](https://komarev.com/ghpvc/?username=BeityBytes&color=ff69b4)](#) [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#) [![](https://img.shields.io/badge/badges-awesome-green.svg)](#)
+
+<h3 align="center"></h3>
+
+<p align="center"><img align="center" src="/assets/github.gif"></p>
+
 
 <!--
 **BeityBytes/BeityBytes** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
@@ -14,16 +22,3 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-
-### :cherry_blossom::cherry_blossom::cherry_blossom:
-
-[![](https://komarev.com/ghpvc/?username=BeityBytes&color=ff69b4)](#) [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#) [![](https://img.shields.io/badge/badges-awesome-green.svg)](#)
-
-<!--- - 🌸 Hi, I’m @BeityBytes --->
-
-
-
-
-<h3 align="center"></h3>
-
-<p align="center"><img align="center" src="/assets/github.gif"></p>
