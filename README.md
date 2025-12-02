@@ -6,6 +6,8 @@
 <p align="center">🌸🌸🌸</p>
 <h3 align="center"></h3>
 
+<img src="/assets/hello.svg">
+
 <p align="center"><img align="center" src="/assets/github.gif"></p>
 
 
