@@ -1,4 +1,5 @@
-<h1 align="center">Hello there, I’m @BeityBytes 🌸</h1>
+<!-- <h1 align="center">Hello there, I’m @BeityBytes 🌸</h1> -->
+<div align="center"><img src="/assets/hello.svg"></div>
 
 <h3 align="center"><img src="https://komarev.com/ghpvc/?username=BeityBytes&color=ff69b4" /> <img src="https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg" /><img src="https://img.shields.io/badge/badges-awesome-green.svg" /></h3>
 
@@ -6,7 +7,7 @@
 <p align="center">🌸🌸🌸</p>
 <h3 align="center"></h3>
 
-<img src="/assets/hello.svg">
+
 
 <p align="center"><img align="center" src="/assets/github.gif"></p>
 
