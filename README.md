@@ -1,5 +1,6 @@
-<h1>Hi there 👋, I’m @BeityBytes 🌸</h1>
-<h3>🌸🌸🌸</h3>
+<h1 align="center">Hi there 👋, I’m @BeityBytes 🌸</h1>
+<h3 align="center">🌸🌸🌸</h3>
+<h3 align="center"></h3>
 
 [![](https://komarev.com/ghpvc/?username=BeityBytes&color=ff69b4)](#) [![](https://img.shields.io/badge/Ask%20me-anything-1abc9c.svg)](#) [![](https://img.shields.io/badge/badges-awesome-green.svg)](#)
 
